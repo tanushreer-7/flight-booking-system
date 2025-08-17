@@ -58,7 +58,7 @@ It simulates how a basic backend for a booking system works – from listing fli
 
 ---
 
-##🎮 Sample Usage:
+## 🎮 Sample Usage
 
 ===== Flight Booking System =====
 
@@ -72,6 +72,6 @@ It simulates how a basic backend for a booking system works – from listing fli
 
 ---
 
-##🙌 Acknowledgement
+## 🙌 Acknowledgement
 
 This project was built as part of my internship at Pinnacle Labs to strengthen my Java and backend development skills.
